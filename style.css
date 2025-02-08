@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Extenda";
+    src: url("/assets/fonts/Extenda-80-Peta-trial.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.extenda{
+    font-family: "Extenda";
+}
