@@ -8,3 +8,15 @@
 .extenda{
     font-family: "Extenda";
 }
+
+.linkNav {
+    font-family: "Oswald", serif;
+    font-size: 3rem;
+    font-weight: 900;
+    justify-content: flex;
+    align-items: center;
+}
+
+.linkNav:hover{
+    color: #4B3F33;
+}
